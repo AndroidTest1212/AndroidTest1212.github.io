@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.geidea.paymentsdk",
+      "sha256_cert_fingerprints": [
+        "6A:14:A5:90:E2:B4:B0:F0:E7:15:88:8A:E2:62:3E:D5:19:1F:95:CB:54:8F:6D:7E:C3:C4:81:9E:A9:6F:79:45"
+      ]
+    }
+  }
+]
