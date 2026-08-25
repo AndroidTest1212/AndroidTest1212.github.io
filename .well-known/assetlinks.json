@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "net.geidea.paymentsdk",
       "sha256_cert_fingerprints": [
-        "7A:F5:69:42:F7:8E:67:9D:A9:FD:9E:CA:47:43:5C:E8:E0:65:61:C0:C9:D1:01:E2:F8:EC:44:BE:49:BF:F1:E4"
+        "7A:F5:69:42:F7:8E:67:9D:A9:FD:9E:CA:47:43:5C:E8:E0:65:61:C0:C9:D1:01:E2:F8:EC:44:BE:49:BF:F1:E4",
+        "6A:14:A5:90:E2:B4:B0:F0:E7:15:88:8A:E2:62:3E:D5:19:1F:95:CB:54:8F:6D:7E:C3:C4:81:9E:A9:6F:79:45"
       ]
     }
   }
