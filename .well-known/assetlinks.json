@@ -6,7 +6,8 @@
       "package_name": "net.geidea.paymentsdk",
       "sha256_cert_fingerprints": [
        "7A:F5:69:42:F7:8E:67:9D:A9:FD:9E:CA:47:43:5C:E8:E0:65:61:C0:C9:D1:01:E2:F8:EC:44:BE:49:BF:F1:E4",
-  "B5:B5:91:40:6D:B9:9D:EE:D3:61:D9:07:DF:20:0A:EE:A8:58:FE:FE:71:1D:86:50:41:0F:78:A7:92:84:42:AE"
+  "B5:B5:91:40:6D:B9:9D:EE:D3:61:D9:07:DF:20:0A:EE:A8:58:FE:FE:71:1D:86:50:41:0F:78:A7:92:84:42:AE",
+        "6A:14:A5:90:E2:B4:B0:F0:E7:15:88:8A:E2:62:3E:D5:19:1F:95:CB:54:8F:6D:7E:C3:C4:81:9E:A9:6F:79:45"
       ]
     }
   }
